@@ -53,3 +53,5 @@ src/
 ## 📝 Licencia
 
 MIT
+
+<!-- maintainer: routine maintenance pass (2026-09-07) -->
