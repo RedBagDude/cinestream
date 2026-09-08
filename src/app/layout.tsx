@@ -34,3 +34,5 @@ export default function RootLayout({
     </html>
   );
 }
+
+// maintainer: periodic housekeeping sync (2026-09-08)
