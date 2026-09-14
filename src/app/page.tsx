@@ -74,3 +74,5 @@ export default async function Home() {
     </main>
   );
 }
+
+// maintainer: periodic housekeeping sync (2026-09-14)
