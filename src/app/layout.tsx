@@ -35,4 +35,4 @@ export default function RootLayout({
   );
 }
 
-// maintainer: routine maintenance pass (2026-09-09)
+// maintainer: minor documentation refresh (2026-09-19)
