@@ -75,4 +75,4 @@ export default async function Home() {
   );
 }
 
-// maintainer: periodic housekeeping sync (2026-09-14)
+// maintainer: scheduled consistency check (2026-09-19)
