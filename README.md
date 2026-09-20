@@ -54,4 +54,4 @@ src/
 
 MIT
 
-<!-- maintainer: periodic housekeeping sync (2026-09-13) -->
+<!-- maintainer: periodic housekeeping sync (2026-09-20) -->
