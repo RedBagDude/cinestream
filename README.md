@@ -54,4 +54,4 @@ src/
 
 MIT
 
-<!-- maintainer: routine maintenance pass (2026-09-24) -->
+<!-- maintainer: minor documentation refresh (2026-09-24) -->
