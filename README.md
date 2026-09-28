@@ -54,4 +54,4 @@ src/
 
 MIT
 
-<!-- maintainer: minor documentation refresh (2026-09-24) -->
+<!-- maintainer: scheduled consistency check (2026-09-28) -->
