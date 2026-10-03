@@ -54,4 +54,4 @@ src/
 
 MIT
 
-<!-- maintainer: periodic housekeeping sync (2026-09-29) -->
+<!-- maintainer: routine maintenance pass (2026-10-03) -->
